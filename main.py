@@ -5,8 +5,6 @@
 # Section: 12
 # Breakout: 10
 
-int grade
-
 def getLetterGrade(grade):
   if(grade >= 93.0)
   lettergrade = "A"
