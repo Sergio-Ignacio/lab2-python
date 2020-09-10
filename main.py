@@ -1,9 +1,9 @@
 # Author: Sergio Ulloa siu5033@psu.edu
-# Collaborator: siu5033@psu.edu
-# Collaborator: siu5033@psu.edu
-# Collaborator: siu5033@psu.edu
-# Section: 1
-# Breakout: 12
+# Collaborator: Arabella Harrison axh5810@psu.edu
+# Collaborator: Vishal Vardhan vvm5237@psu.edu
+# Collaborator: Tigran Saakyan tms6749@psu.edu
+# Section: 12
+# Breakout: 10
 
 int grade
 
@@ -26,3 +26,6 @@ def getLetterGrade(grade):
   lettergrade = "D"
   else
   lettergrade = "F"
+
+if __name__ == "__main__":
+  run()
