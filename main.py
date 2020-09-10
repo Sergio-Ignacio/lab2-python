@@ -26,6 +26,10 @@ def getLetterGrade(grade):
   lettergrade = "D"
   else
   lettergrade = "F"
+def run():
+  num = 
+  num =
+  print (f"Your letter grade for CMPS 131 is {getLetterGrade}.")
 
 if __name__ == "__main__":
   run()
